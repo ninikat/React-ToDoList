@@ -2,4 +2,15 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: pink;
+}
+
+
+.item_style{
+  background-color: red;
+  list-style: none;
+}
+
+.delete_button{
+  margin-left: 40px;
 }
